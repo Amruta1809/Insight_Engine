@@ -14,14 +14,17 @@ Users simply enter a topic, and the system automatically:
 
 ## Features
 
-| Feature | Description |
-|--------|-------------|
-|   Real-time DuckDuckGo search | Fetches live web information |
-|   AI-powered synthesis | Uses multiple fallback AI models |
-|   Structured JSON output | Summary, stats & sentiment |
-|   Error-resistant | Handles malformed responses and rate limits |
-|   Clean Streamlit UI | Simple and user-friendly |
-|   Automatic model fallback | If one model is busy, another is used |
+The Insight Engine is an AI-powered research assistant.
+
+The user enters a topic and the tool searches the internet automatically.
+
+The web results are processed by an AI model through OpenRouter API.
+
+The AI returns information in a structured JSON format (summary, stats, sentiment).
+
+The app is built using Streamlit for a clean and interactive UI.
+
+Key insights are shown in tables, text sections, and sentiment badges.
 
 ---
 
