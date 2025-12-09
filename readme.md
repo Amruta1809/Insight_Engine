@@ -15,10 +15,15 @@ Users simply enter a topic, and the system automatically:
 ## Features
 
 -The Insight Engine is an AI-powered research assistant.
+
 -The user enters a topic and the tool searches the internet automatically.
+
 -The web results are processed by an AI model through OpenRouter API.
+
 -The AI returns information in a structured JSON format (summary, stats, sentiment).
+
 -The app is built using Streamlit for a clean and interactive UI.
+
 -Key insights are shown in tables, text sections, and sentiment badges.
 
 ---
@@ -41,6 +46,7 @@ Users simply enter a topic, and the system automatically:
 
     streamlit run app.py
 
+---
 
 ##  Installation
 
