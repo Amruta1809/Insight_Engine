@@ -14,17 +14,12 @@ Users simply enter a topic, and the system automatically:
 
 ## Features
 
-The Insight Engine is an AI-powered research assistant.
-
-The user enters a topic and the tool searches the internet automatically.
-
-The web results are processed by an AI model through OpenRouter API.
-
-The AI returns information in a structured JSON format (summary, stats, sentiment).
-
-The app is built using Streamlit for a clean and interactive UI.
-
-Key insights are shown in tables, text sections, and sentiment badges.
+-The Insight Engine is an AI-powered research assistant.
+-The user enters a topic and the tool searches the internet automatically.
+-The web results are processed by an AI model through OpenRouter API.
+-The AI returns information in a structured JSON format (summary, stats, sentiment).
+-The app is built using Streamlit for a clean and interactive UI.
+-Key insights are shown in tables, text sections, and sentiment badges.
 
 ---
 
@@ -38,6 +33,15 @@ Key insights are shown in tables, text sections, and sentiment badges.
 
 ---
 
+## setup
+ 1.Install Required Libraries
+
+    pip install -r requirements.txt
+ 2.Run the Application
+
+    streamlit run app.py
+
+
 ##  Installation
 
 Clone this repository:
@@ -45,3 +49,5 @@ Clone this repository:
 ```sh
 git clone https://github.com/Amurta1809/InsightEngine.git
 cd InsightEngine
+
+
