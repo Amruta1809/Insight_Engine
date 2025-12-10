@@ -47,6 +47,9 @@ Users simply enter a topic, and the system automatically:
     streamlit run app.py
 
 ---
+## Run Test Cases
+     python test_insightengine.py 
+---
 
 ##  Installation
 
